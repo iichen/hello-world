@@ -1,2 +1,4 @@
 # hello-world
-brand new repository!
+//brand new repository!
+okay, this is the right place to edit.
+and i need more time to familiar it.
